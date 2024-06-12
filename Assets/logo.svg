@@ -1,0 +1,31 @@
+<svg id="logo" xmlns="http://www.w3.org/2000/svg" width="146" height="159" viewBox="0 0 146 159">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f7a265;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #f7a265;
+        stroke-width: 7.41px;
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        stroke: #932c0d;
+        stroke-width: 4.68px;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="31.5" cy="31.5" r="31.5"/>
+  <circle id="Ellipse_1_copy" data-name="Ellipse 1 copy" class="cls-1" cx="114.5" cy="78.5" r="31.5"/>
+  <circle id="Ellipse_1_copy_2" data-name="Ellipse 1 copy 2" class="cls-1" cx="31.5" cy="127.5" r="31.5"/>
+  <path id="Line_1" data-name="Line 1" class="cls-2" d="M712.759,870.438l0.482-.876,60,33-0.482.876Z" transform="translate(-660 -838)"/>
+  <path id="Line_1_copy" data-name="Line 1 copy" class="cls-2" d="M697.759,885.438l0.482-.876,60,33-0.482.876Z" transform="translate(-660 -838)"/>
+  <path id="Line_1_copy_2" data-name="Line 1 copy 2" class="cls-2" d="M702.3,968.625l-0.576-.817L757.7,928.375l0.576,0.817Z" transform="translate(-660 -838)"/>
+  <circle class="cls-3" cx="32" cy="32" r="24"/>
+</svg>
